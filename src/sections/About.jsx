@@ -39,8 +39,7 @@ const About = () => {
                         <div>
                             <p className="grid-headtext">Tech Stack</p>
                             <p className="grid-subtext">
-                                I am good at variety of languages, frameworks, and tools that allow me to build robust and scalable
-                                applications
+                                I am good at variety of techStack: &#39;react&#39;,&#39;typeScript&#39;&#39;mongoDB&#39;&#39;SQL&#39;&#39;JAVA&#39; &#39;C#&#39; &#39;framerMotion&#39; &#39;tailwind&#39;
                             </p>
                         </div>
                     </div>
